@@ -29,7 +29,7 @@
                 "prefetched": true
             },
             {
-                "component": "usefulTopics",
+                "component": "catalog",
                 "key": "usefulTopics.credits",
                 "prefetched": true,
                 "props": {
