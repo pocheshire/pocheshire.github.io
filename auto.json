@@ -72,10 +72,21 @@
             },
             "layoutKey": "automobileProductCard"
         },
-    
-        
-        
-        
+             {
+            "title": "ОСАГО",
+            "description": "С выгодой до 55%",
+            "background": {
+                "colors": [
+                    "#FF0508"
+                ]
+            },
+            "deepLink": "finuslugi://insurance/osago/purchase",
+            "analytics": {
+                "eventCategory": "automobile_mob",
+                "eventAction": "osago_recommendation_click"
+            },
+            "layoutKey": "recommendations.automobileRecommendations"
+        },
         {
             "title": "Каско",
             "description": "Расчет за 1 минуту",
@@ -91,23 +102,6 @@
             },
             "layoutKey": "recommendations.automobileRecommendations"
         },
-        
-            {
-            "title": "ОСАГО",
-            "description": "С выгодой до 55%",
-            "background": {
-                "colors": [
-                    "#FF0508"
-                ]
-            },
-            "deepLink": "finuslugi://insurance/osago/purchase",
-            "analytics": {
-                "eventCategory": "automobile_mob",
-                "eventAction": "osago_recommendation_click"
-            },
-            "layoutKey": "recommendations.automobileRecommendations"
-        },
-        
         {
             "title": "Получи скидку 5% на заправку",
             "background": {
