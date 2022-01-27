@@ -103,7 +103,7 @@
             "layoutKey": "recommendations.automobileRecommendations"
         },
         {
-            "title": "123 саыука grdegrdg egfesgsegscvrddshndr ssrgsegsegdrthdfhbd shgsgrsdhgetrjhetsjgehtrgsjyrtj dhftdsheshsdrhgetjhrtjrtjtr ehtrjhnfgjetjsrjhfsgj dhnbgfhetshedtjrtsjrsjrstjhtdjerjt",
+            "title": "Получи скидку 5% на заправку",
             "background": {
                 "url": "https://pocheshire.github.io/images/offer_money.png",
                 "colors": [
@@ -147,7 +147,7 @@
                 "url": "https://pocheshire.github.io/images/new-car-useful.png"
             },
             "layoutKey": "usefulTopics.automobileTopics",
-            "title": "Статьи про ОСАГО"
+            "title": "Статьи про ОСАГО 11111111111111111111111111111111111111 222222222222222222222222222222"
         },
         {
             "actionUrl": "https://en.wikipedia.org/wiki/Comprehensive_Cover",
@@ -160,7 +160,7 @@
                 "url": "https://pocheshire.github.io/images/new-car-useful.png"
             },
             "layoutKey": "usefulTopics.automobileTopics",
-            "title": "Статьи про КАСКО"
+            "title": "Статьи про КАСКО 4 44444444444444444444444 666666666666666666666666666"
         }
     ]
 }
