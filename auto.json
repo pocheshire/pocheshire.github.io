@@ -72,21 +72,10 @@
             },
             "layoutKey": "automobileProductCard"
         },
-        {
-            "title": "ОСАГО",
-            "description": "С выгодой до 55%",
-            "background": {
-                "colors": [
-                    "#FF0508"
-                ]
-            },
-            "deepLink": "finuslugi://insurance/osago/purchase",
-            "analytics": {
-                "eventCategory": "automobile_mob",
-                "eventAction": "osago_recommendation_click"
-            },
-            "layoutKey": "recommendations.automobileRecommendations"
-        },
+    
+        
+        
+        
         {
             "title": "Каско",
             "description": "Расчет за 1 минуту",
@@ -102,6 +91,23 @@
             },
             "layoutKey": "recommendations.automobileRecommendations"
         },
+        
+            {
+            "title": "ОСАГО",
+            "description": "С выгодой до 55%",
+            "background": {
+                "colors": [
+                    "#FF0508"
+                ]
+            },
+            "deepLink": "finuslugi://insurance/osago/purchase",
+            "analytics": {
+                "eventCategory": "automobile_mob",
+                "eventAction": "osago_recommendation_click"
+            },
+            "layoutKey": "recommendations.automobileRecommendations"
+        },
+        
         {
             "title": "Получи скидку 5% на заправку",
             "background": {
@@ -147,7 +153,7 @@
                 "url": "https://pocheshire.github.io/images/new-car-useful.png"
             },
             "layoutKey": "usefulTopics.automobileTopics",
-            "title": "Статьи про ОСАГО 11111111111111111111111111111111111111 222222222222222222222222222222"
+            "title": "Статьи про ОСАГО"
         },
         {
             "actionUrl": "https://en.wikipedia.org/wiki/Comprehensive_Cover",
@@ -160,7 +166,7 @@
                 "url": "https://pocheshire.github.io/images/new-car-useful.png"
             },
             "layoutKey": "usefulTopics.automobileTopics",
-            "title": "Статьи про КАСКО 4 44444444444444444444444 666666666666666666666666666"
+            "title": "Статьи про КАСКО"
         }
     ]
 }
