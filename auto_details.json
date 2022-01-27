@@ -1,0 +1,83 @@
+{
+    "page": {
+        "key": "automobile_info",
+        "title": "Автомобиль",
+        "iconUrl": "https://assets.finuslugi.ru/mp-assets/images/mapp/icons/automobile.png",
+        "activeIconUrl": "https://assets.finuslugi.ru/mp-assets/images/mapp/icons/automobile-active.png",
+        "analytics": {
+            "eventCategory": "automobile_mob",
+            "eventAction": "automobile_mob"
+        },
+        "layout": [
+            {
+                "component": "automobileProductCard",
+                "key": "automobileProductCard",
+                "props": {
+                    "displayType": "cardSingle"
+                },
+                "prefetched": true
+            },
+            {
+                "component": "recommendations",
+                "key": "recommendations.automobileRecommendations",
+                "props": {
+                    "context": "automobileRecommendations",
+                    "title": "Рекомендуем",
+                    "displayType": "concatList",
+                    "displayCount": 2
+                },
+                "prefetched": true
+            }
+        ]
+    },
+    "data": [
+        {
+            "title": "Расчехли свой автомобиль!",
+            "description": "Ваш полис ОСАГО всегда под рукой",
+            "background": {
+                "url": "https://pocheshire.github.io/images/uncover.png"
+            },
+            "deepLink": "finuslugi://insurance/osago/attach",
+            "actionText": "Добавить",
+            "custom": {
+                "state": "no-auto"
+            },
+            "analytics": {
+                "eventCategory": "automobile_mob",
+                "eventAction": "banner_click",
+                "eventLabel": "uncover"
+            },
+            "layoutKey": "automobileProductCard"
+        },
+        {
+            "title": "ОСАГО",
+            "description": "С выгодой до 55%",
+            "background": {
+                "colors": [
+                    "#FF0508"
+                ]
+            },
+            "deepLink": "finuslugi://insurance/osago/purchase",
+            "analytics": {
+                "eventCategory": "automobile_mob",
+                "eventAction": "osago_recommendation_click"
+            },
+            "layoutKey": "recommendations.automobileRecommendations"
+        },
+        {
+            "title": "Каско",
+            "description": "Расчет за 1 минуту",
+            "background": {
+                "colors": [
+                    "#FF0508"
+                ]
+            },
+            "deepLink": "finuslugi://insurance/kasko/purchase",
+            "analytics": {
+                "eventCategory": "automobile_mob",
+                "eventAction": "kasko_recommendation_click"
+            },
+            "layoutKey": "recommendations.automobileRecommendations"
+        }
+    ]
+}
