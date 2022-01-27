@@ -120,11 +120,11 @@
             "layoutKey": "offers.automobileOffers"
         },
         {
-            "title": "Поменяйте колеса без скидки с переплатой",
+            "title": "Поменяйте колеса со скидкой",
             "background": {
-                "url": "https://pocheshire.github.io/images/offer_psb.png",
+                "url": "https://pocheshire.github.io/images/offer_tires.png",
                 "colors": [
-                    "#000000",
+                    "#4E2FE8",
                     "#516BF0"
                 ]
             },
