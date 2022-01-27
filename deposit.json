@@ -19,7 +19,7 @@
                 },
                 "prefetched": true
             },
-            {
+                {
                 "component": "offers",
                 "key": "offers.depositOffers",
                 "props": {
