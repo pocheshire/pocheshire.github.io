@@ -34,9 +34,9 @@
                 "prefetched": true,
                 "props": {
                     "context": "credits",
-                    "description": "Посмотреть организации своего города, отсортировать, найти по названию 55555555555555555555555555555555",
+                    "description": "Посмотреть организации своего города, отсортировать, найти по названию",
                     "displayCount": 2,
-                    "title": "Каталог 5555555555555555555555555555555555"
+                    "title": "Каталог"
                 }
             }
         ]
@@ -48,7 +48,7 @@
             "background": {
                 "url": "https://pocheshire.github.io/images/banner_key.png"
             },
-            "actionText": "Получить кредит 5555555555555555555555 рррррррррррррррррррррррррррррррррррр",
+            "actionText": "Получить кредит",
             "deepLink":"finuslugi://credits",
             "custom": {
                 "state": "no-credit"
