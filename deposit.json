@@ -19,24 +19,27 @@
                 },
                 "prefetched": true
             },
-            {
-                "component": "offers",
-                "key": "offers.depositOffers",
-                "props": {
-                    "context": "depositOffers",
-                    "title": "Предложения",
-                    "displayType": "specialOffer",
-                    "displayCount": 2
-                },
-                "prefetched": true
-            },
+        
+            
+            
             {
                 "component": "usefulTopics",
                 "key": "usefulTopics.depositTopics",
                 "props": {
                     "context": "depositTopics",
-                    "title": "Полезное",
+                    "title": "11111111111111111111111111111111111111111111111111 Полезное пппппппппппппппппппппппппппппппп",
                     "displayType": "cardHorizontal",
+                    "displayCount": 2
+                },
+                "prefetched": true
+            },
+                {
+                "component": "offers",
+                "key": "offers.depositOffers",
+                "props": {
+                    "context": "depositOffers",
+                    "title": " должно стать вторым Предложения",
+                    "displayType": "specialOffer",
                     "displayCount": 2
                 },
                 "prefetched": true
