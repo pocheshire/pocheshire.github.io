@@ -6,7 +6,7 @@
         "activeIconUrl": "https://assets.finuslugi.ru/mp-assets/images/mapp/icons/deposit-active.png",
         "analytics": {
             "eventCategory": "deposit_mob",
-            "eventAction": "deposit_mob"
+            "eventAction": "main_page_view"
         },
         "layout": [
             {
@@ -46,9 +46,9 @@
     "data": [
         {
             "title": "Вклады",
-            "description": "До 8% годовых",
+            "description": "До 10,2% годовых",
             "background": {
-                "url": "https://pocheshire.github.io/images/accounts.png"
+                "url": "https://pocheshire.github.io/images/deposit-recommendation1.png"
             },
             "deepLink":"finuslugi://deposits",
             "analytics": {
@@ -58,10 +58,10 @@
             "layoutKey": "recommendations.depositRecommendations"
         },
         {
-            "title": "Инвестиции",
-            "description": "До 10% годовых",
+            "title": "Облигации",
+            "description": "Калининградской области, купон 9%",
             "background": {
-                "url": "https://pocheshire.github.io/images/investments.png"
+                "url": "https://pocheshire.github.io/images/deposit-recommendation2.png"
             },
             "deepLink":"finuslugi://investments",
             "analytics": {
@@ -73,7 +73,7 @@
         {
             "title": "Получи 1000 руб за первый вклад",
             "background": {
-                "url": "https://pocheshire.github.io/images/offer_money.png",
+                "url": "https://pocheshire.github.io/images/deposit-offer1.png",
                 "colors": [
                     "#EF4A26",
                     "#EE9F29"
@@ -89,7 +89,7 @@
         {
             "title": "Стань агентом и заработай до 3000Р",
             "background": {
-                "url": "https://pocheshire.github.io/images/offer_gift.png",
+                "url": "https://pocheshire.github.io/images/deposit-offer2.png",
                 "colors": [
                     "#29D764",
                     "#3ABF8F"
@@ -124,7 +124,7 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/new-deposit-useful-2.png"
+                "url": "https://pocheshire.github.io/images/deposit-useful1.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Путь инвестора",
@@ -138,7 +138,7 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/new-deposit-useful-3.png"
+                "url": "https://pocheshire.github.io/images/deposit-useful2.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Деньги делают деньги",
