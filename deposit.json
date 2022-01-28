@@ -73,10 +73,9 @@
         {
             "title": "Получи 1000 руб за первый вклад",
             "background": {
-                "url": "https://pocheshire.github.io/images/deposit-offer1.png",
+                "url": "https://pocheshire.github.io/images/auto-offer1.png",
                 "colors": [
-                    "#EF4A26",
-                    "#EE9F29"
+                    "#EF4A26"
                 ]
             },
             "actionUrl": "https://pocheshire.github.io/images/offer_money.png",
@@ -89,10 +88,9 @@
         {
             "title": "Стань агентом и заработай до 3000Р",
             "background": {
-                "url": "https://pocheshire.github.io/images/deposit-offer2.png",
+                "url": "https://pocheshire.github.io/images/auto-offer2.png",
                 "colors": [
-                    "#29D764",
-                    "#3ABF8F"
+                    "#29D764"
                 ]
             },
             "actionUrl": "https://pocheshire.github.io/images/offer_gift.png",
@@ -110,7 +108,7 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/new-deposit-useful-1.png"
+                "url": "https://pocheshire.github.io/images/deposit-useful1.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Школа Московской биржи",
@@ -124,7 +122,7 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/deposit-useful1.png"
+                "url": "https://pocheshire.github.io/images/deposit-useful2.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Путь инвестора",
