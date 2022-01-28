@@ -13,8 +13,7 @@
                 "component": "creditProductCard",
                 "key": "creditProductCard",
                 "props": {
-                    "displayType": "cardSingle",
-					"title": "Опрос"
+                    "displayType": "cardSingle"
                 },
                 "prefetched": true
             },
@@ -22,7 +21,8 @@
                 "component": "creditProductCard",
                 "key": "survey",
                 "props": {
-                    "displayType": "cardSingle"
+                    "displayType": "cardSingle",
+			"title": "Опрос"
                 },
                 "prefetched": true
             },
