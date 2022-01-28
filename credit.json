@@ -13,6 +13,15 @@
                 "component": "creditProductCard",
                 "key": "creditProductCard",
                 "props": {
+                    "displayType": "cardSingle",
+					"title": "Опрос"
+                },
+                "prefetched": true
+            },
+			{
+                "component": "creditProductCard",
+                "key": "survey",
+                "props": {
                     "displayType": "cardSingle"
                 },
                 "prefetched": true
@@ -59,6 +68,16 @@
                 "eventLabel": "uncover"
             },
             "layoutKey": "creditProductCard"
+        },
+		{
+            "title": "Помогите нам стать лучше",
+            "description": "Ответьте на 1 вопрос",
+            "actionText": "Пройти опрос",
+            "deepLink":"https://ru.surveymonkey.com/r/FZBHQYD",
+            "custom": {
+                "state": "no-credit"
+            },
+            "layoutKey": "survey"
         },
         {
             "title": "Кредит до 500 000 со ставкой 8,9%",
