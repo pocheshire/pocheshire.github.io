@@ -46,7 +46,7 @@
             "title": "Кредит на любые цели",
             "description": "Не выходя из дома",
             "background": {
-                "url": "https://pocheshire.github.io/images/banner_key.png"
+                "url": "https://pocheshire.github.io/images/credit-banner.png"
             },
             "actionText": "Получить кредит",
             "deepLink":"finuslugi://credits",
@@ -63,7 +63,7 @@
         {
             "title": "Кредит до 500 000 со ставкой 8,9%",
             "background": {
-                "url": "https://pocheshire.github.io/images/offer_psb.png",
+                "url": "https://pocheshire.github.io/images/credit-offer1.png",
                 "colors": [
                     "#E1E8F6"
                 ]
@@ -83,7 +83,7 @@
                 "eventLabel": "banks"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/new-credit-catalog-1.png"
+                "url": "https://pocheshire.github.io/images/credit-useful1.png"
             },
             "layoutKey": "usefulTopics.organizations",
             "title": "Банки"
@@ -96,7 +96,7 @@
                 "eventLabel": "insurance"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/new-credit-catalog-2.png"
+                "url": "https://pocheshire.github.io/images/credit-useful2.png"
             },
             "layoutKey": "usefulTopics.organizations",
             "title": "Страховые"
