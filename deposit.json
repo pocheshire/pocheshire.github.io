@@ -129,20 +129,6 @@
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Путь инвестора",
             "description": "Бесплатный курс от экспертов Московской биржи при поддержке Банка России"
-        },
-        {
-            "actionUrl": "https://dengi-delayut-dengi.simplecast.com",
-            "analytics": {
-                "eventAction": "topic_click",
-                "eventCategory": "automobile_mob",
-                "eventLabel": "osago_usefuls"
-            },
-            "background": {
-                "url": "https://pocheshire.github.io/images/deposit-useful2.png"
-            },
-            "layoutKey": "usefulTopics.depositTopics",
-            "title": "Деньги делают деньги",
-            "description": "Слушайте подкаст от Московской биржи"
         }
     ]
 }
