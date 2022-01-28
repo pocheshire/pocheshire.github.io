@@ -6,7 +6,7 @@
         "activeIconUrl": "https://assets.finuslugi.ru/mp-assets/images/mapp/icons/credit-active.png",
         "analytics": {
             "eventCategory": "credit_mob",
-            "eventAction": "credit_mob"
+            "eventAction": "main_page_view"
         },
         "layout": [
             {
@@ -30,13 +30,13 @@
             },
             {
                 "component": "usefulTopics",
-                "key": "usefulTopics.credits",
+                "key": "usefulTopics.organizations",
                 "prefetched": true,
                 "props": {
-                    "context": "credits",
-                    "description": "Посмотреть организации своего города, отсортировать, найти по названию",
+                    "context": "organizations",
+                    "description": "Посмотреть  организации своего города, отсортировать, найти по названию",
                     "displayCount": 2,
-                    "title": "Каталог"
+                    "title": "Полезное"
                 }
             }
         ]
@@ -61,12 +61,11 @@
             "layoutKey": "creditProductCard"
         },
         {
-            "title": "Кредит до 500 000 со ставкой 5,1%",
+            "title": "Кредит до 500 000 со ставкой 8,9%",
             "background": {
                 "url": "https://pocheshire.github.io/images/offer_psb.png",
                 "colors": [
-                    "#5C0E4B",
-                    "#516BF0"
+                    "#E1E8F6"
                 ]
             },
             "actionUrl": "https://pocheshire.github.io/images/offer_money.png",
@@ -86,7 +85,7 @@
             "background": {
                 "url": "https://pocheshire.github.io/images/new-credit-catalog-1.png"
             },
-            "layoutKey": "usefulTopics.credits",
+            "layoutKey": "usefulTopics.organizations",
             "title": "Банки"
         },
         {
@@ -99,7 +98,7 @@
             "background": {
                 "url": "https://pocheshire.github.io/images/new-credit-catalog-2.png"
             },
-            "layoutKey": "usefulTopics.credits",
+            "layoutKey": "usefulTopics.organizations",
             "title": "Страховые"
         }
     ]
