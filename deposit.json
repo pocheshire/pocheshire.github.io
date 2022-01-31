@@ -15,7 +15,7 @@
                 "props": {
                     "context": "depositRecommendations",
                     "displayType": "cardHorizontal",
-                    "displayCount": 1
+                    "displayCount": 3
                 },
                 "prefetched": true
             },
@@ -44,6 +44,19 @@
         ]
     },
     "data": [
+         {
+            "title": "Вклады",
+            "description": "До 10,2% годовых",
+            "background": {
+                "url": "https://pocheshire.github.io/images/deposit-recommendation1.png"
+            },
+            "deepLink":"finuslugi://deposits",
+            "analytics": {
+                "eventCategory": "deposit_mob",
+                "eventAction": "deposits_recommendation_click"
+            },
+            "layoutKey": "recommendations.depositRecommendations"
+        },
         {
             "title": "Облигации",
             "description": "Калининградской области, купон 9%",
@@ -54,6 +67,19 @@
             "analytics": {
                 "eventCategory": "deposit_mob",
                 "eventAction": "investments_recommendation_click"
+            },
+            "layoutKey": "recommendations.depositRecommendations"
+        },
+         {
+            "title": "Вклады",
+            "description": "До 10,2% годовых",
+            "background": {
+                "url": "https://pocheshire.github.io/images/deposit-recommendation1.png"
+            },
+            "deepLink":"finuslugi://deposits",
+            "analytics": {
+                "eventCategory": "deposit_mob",
+                "eventAction": "deposits_recommendation_click"
             },
             "layoutKey": "recommendations.depositRecommendations"
         },
