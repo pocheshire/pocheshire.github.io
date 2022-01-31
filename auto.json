@@ -13,7 +13,8 @@
                 "component": "automobileProductCard",
                 "key": "automobileProductCard",
                 "props": {
-                    "displayType": "cardSingle"
+                    "displayType": "cardSingle",
+			"displayCount": 2
                 },
                 "prefetched": true
             },
@@ -55,6 +56,24 @@
     },
     "data": [
         {
+            "title": "Добавьте ОСАГО",
+            "description": "Чтобы Ваш полис всегда был под рукой",
+            "background": {
+                "url": "https://pocheshire.github.io/images/uncover.png"
+            },
+            "deepLink": "finuslugi://insurance/osago/attach",
+            "actionText": "Добавить",
+            "custom": {
+                "state": "no-auto"
+            },
+            "analytics": {
+                "eventCategory": "automobile_mob",
+                "eventAction": "banner_click",
+                "eventLabel": "uncover"
+            },
+            "layoutKey": "automobileProductCard"
+        },
+	    {
             "title": "Добавьте ОСАГО",
             "description": "Чтобы Ваш полис всегда был под рукой",
             "background": {
