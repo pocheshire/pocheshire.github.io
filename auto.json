@@ -24,7 +24,7 @@
                     "context": "automobileRecommendations",
                     "title": "Рекомендуем",
                     "displayType": "concatList",
-                    "displayCount": 3
+                    "displayCount": 1
                 },
                 "prefetched": true
             },
