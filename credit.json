@@ -43,8 +43,7 @@
                 "prefetched": true,
                 "props": {
                     "context": "organizations",
-                    "description": "Посмотреть  организации своего города, отсортировать, найти по названию",
-                    "displayCount": 2,
+                    "displayType": "newsList",
                     "title": "Полезное"
                 }
             }
@@ -105,7 +104,8 @@
                 "url": "https://pocheshire.github.io/images/credit-useful1.png"
             },
             "layoutKey": "usefulTopics.organizations",
-            "title": "Банки"
+            "title": "Статьи про кредиты",
+	    "description": "В марте 2020 года количество досрочных погашений кредитов..."
         },
         {
             "actionUrl": "https://en.wikipedia.org/wiki/Insurance",
@@ -118,7 +118,8 @@
                 "url": "https://pocheshire.github.io/images/credit-useful2.png"
             },
             "layoutKey": "usefulTopics.organizations",
-            "title": "Страховые"
+            "title": "Досрочное погашение: выгодно ли отдавать деньги раньше?",
+	    "description": "Полезный контент от экспертов рынка"
         }
     ]
 }
