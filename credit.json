@@ -101,7 +101,7 @@
                 "eventLabel": "banks"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/credit-useful1.png",
+                "url": "https://pocheshire.github.io/images/wallet.png",
 		"colors": [
                     "#A9E0ED"
                 ]
@@ -118,7 +118,7 @@
                 "eventLabel": "insurance"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/credit-useful2.png",
+                "url": "https://pocheshire.github.io/images/money.svg",
 		"colors": [
                     "#C4C4C4"
                 ]
