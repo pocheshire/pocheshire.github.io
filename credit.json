@@ -101,7 +101,10 @@
                 "eventLabel": "banks"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/credit-useful1.png"
+                "url": "https://pocheshire.github.io/images/credit-useful1.png",
+		"colors": [
+                    "#A9E0ED"
+                ]
             },
             "layoutKey": "usefulTopics.organizations",
             "title": "Статьи про кредиты",
@@ -115,7 +118,10 @@
                 "eventLabel": "insurance"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/credit-useful2.png"
+                "url": "https://pocheshire.github.io/images/credit-useful2.png",
+		"colors": [
+                    "#C4C4C4"
+                ]
             },
             "layoutKey": "usefulTopics.organizations",
             "title": "Досрочное погашение: выгодно ли отдавать деньги раньше?",
