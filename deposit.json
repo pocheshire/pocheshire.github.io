@@ -49,7 +49,7 @@
             "title": "Счета и вклады",
             "description": "До 10,2% годовых",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/recommendation1.svg"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/recommendation1.png"
             },
             "deepLink": "finuslugi://deposits",
             "analytics": {
@@ -62,7 +62,7 @@
             "title": "Облигации",
             "description": "Калининградской области, купон 9%",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/recommendation2.svg"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/recommendation2.png"
             },
             "deepLink": "finuslugi://investments",
             "analytics": {
@@ -74,7 +74,7 @@
         {
             "title": "Получи 1000 руб за первый вклад",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/offer1.svg",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/offer1.png",
                 "colors": [
                     "#FEEDBA"
                 ]
@@ -94,7 +94,7 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful1.svg"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful1.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Статьи про накопления"
@@ -107,7 +107,7 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful2.svg"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful2.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Статьи про инвестиции"
@@ -120,7 +120,7 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful3.svg"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful3.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Школа Московской биржи",
@@ -134,7 +134,7 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful4.svg"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful4.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Путь инвестора",
