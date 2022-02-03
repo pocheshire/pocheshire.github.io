@@ -37,7 +37,7 @@
                     "context": "depositTopics",
                     "title": "Полезное",
                     "description": "Обучение и интересные статьи",
-                    "displayType": "cardSimple",
+                    "displayType": "newsList",
                     "displayCount": 4
                 },
                 "prefetched": true
