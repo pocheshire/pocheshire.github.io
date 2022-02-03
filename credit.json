@@ -82,7 +82,7 @@
         {
             "title": "Стань агентом и зарабатывай с Финуслугами",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/offer1.png?v2",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/offer1.png",
                 "colors": [
                     "#D7BFFF"
                 ]
@@ -134,7 +134,7 @@
                 "eventLabel": "insurance"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/useful2.png",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/useful3.png",
                 "colors": [
                     "#EAEBEE"
                 ]
