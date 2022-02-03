@@ -60,7 +60,7 @@
             },
             "deepLink": "finuslugi://insurance/osago/vehicle_details/44b32df1-2b7c-4d82-a031-0473a16da235",
             "custom": {
-                "state": "default",
+                "state": "no-auto",
                 "vehicleBrand": "BMW",
                 "vehicleModel": "5 series",
                 "vehicleLicensePlate": "А 111 АА 777",
