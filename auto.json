@@ -146,7 +146,7 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/useful1.png"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/useful1.png?v2"
             },
             "layoutKey": "usefulTopics.automobileTopics",
             "title": "Статьи про Страхование"
@@ -159,7 +159,7 @@
                 "eventLabel": "kasko_usefuls"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/useful2.png"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/useful2.png?v2"
             },
             "layoutKey": "usefulTopics.automobileTopics",
             "title": "Вопросы и ответы по ОСАГО"
