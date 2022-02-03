@@ -47,16 +47,6 @@
                     "title": "Полезное",
                     "description": "Посмотреть организации своего города, отсортировать, найти по названию"
                 }
-            },
-            {
-                "component": "usefulTopics",
-                "key": "usefulTopics.usefulContent",
-                "prefetched": true,
-                "props": {
-                    "context": "usefulContent",
-                    "displayType": "cardSimple",
-                    "description": "Полезный контент от экспертов рынка"
-                }
             }
         ]
     },
@@ -149,8 +139,9 @@
                     "#EAEBEE"
                 ]
             },
-            "layoutKey": "usefulTopics.usefulContent",
-            "title": "Статьи про кредиты"
+            "layoutKey": "usefulTopics.organizations",
+            "title": "Статьи про кредиты",
+            "description": "Полезный контент от экспертов рынка"
         }
     ]
 }
