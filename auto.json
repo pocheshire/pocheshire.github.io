@@ -81,7 +81,7 @@
                 "colors": [
                     "#F3F3F8"
                 ],
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/recommendation1.svg"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/recommendation1.png"
             },
             "deepLink": "finuslugi://insurance/osago/purchase",
             "analytics": {
@@ -97,7 +97,7 @@
                 "colors": [
                     "#F3F3F8"
                 ],
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/recommendation2.svg"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/recommendation2.png"
             },
             "actionUrl": "https://kasko.finuslugi.ru",
             "analytics": {
@@ -113,7 +113,7 @@
                 "colors": [
                     "#F3F3F8"
                 ],
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/recommendation3.svg"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/recommendation3.png"
             },
             "actionUrl": "https://mortgage.finuslugi.ru",
             "analytics": {
@@ -125,7 +125,7 @@
         {
             "title": "Подробности о новом бренде MOEX Group",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/offer1.svg",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/offer1.png",
                 "colors": [
                     "#FF0508"
                 ]
@@ -146,7 +146,7 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/useful1.svg"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/useful1.png"
             },
             "layoutKey": "usefulTopics.automobileTopics",
             "title": "Статьи про Страхование"
@@ -159,7 +159,7 @@
                 "eventLabel": "kasko_usefuls"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/useful2.svg"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/useful2.png"
             },
             "layoutKey": "usefulTopics.automobileTopics",
             "title": "Вопросы и ответы по ОСАГО"
