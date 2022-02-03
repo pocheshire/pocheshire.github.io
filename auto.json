@@ -22,7 +22,7 @@
                 "key": "recommendations.automobileRecommendations",
                 "props": {
                     "context": "automobileRecommendations",
-                    "title": "Рекомендуем",
+                    "title": "Оформить",
                     "displayType": "concatList",
                     "displayCount": 3
                 },
@@ -99,7 +99,7 @@
                 ],
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/recommendation2.png"
             },
-            "deepLink": "finuslugi://insurance/kasko/purchase",
+            "actionUrl": "https://kasko.finuslugi.ru",
             "analytics": {
                 "eventCategory": "automobile_mob",
                 "eventAction": "kasko_recommendation_click"
@@ -115,7 +115,7 @@
                 ],
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/recommendation3.png"
             },
-            "deepLink": "finuslugi://insurance/kasko/purchase",
+            "actionUrl": "https://mortgage.finuslugi.ru",
             "analytics": {
                 "eventCategory": "automobile_mob",
                 "eventAction": "kasko_recommendation_click"
@@ -123,14 +123,14 @@
             "layoutKey": "recommendations.automobileRecommendations"
         },
         {
-            "title": "MOEX Group – узнайте подробности о новом бренде ",
+            "title": "Подробности о новом бренде MOEX Group",
             "background": {
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/offer1.png",
                 "colors": [
                     "#FF0508"
                 ]
             },
-            "actionUrl": "https://pocheshire.github.io/images/offer_money.png",
+            "actionUrl": "https://finuslugi.ru/novosti_finuslug/moskovskaya_birzha_predstavila_obnovlennoe_pozicionirovanie_i_brend",
             "analytics": {
                 "eventCategory": "automobile_mob",
                 "eventAction": "gas_station_sale_offer_click",
@@ -171,7 +171,7 @@
             "layoutKey": "offers.automobileOffers"
         },
         {
-            "actionUrl": "https://en.wikipedia.org/wiki/Insurance",
+            "actionUrl": "https://finuslugi.ru/navigator/zastrahovat",
             "analytics": {
                 "eventAction": "topic_click",
                 "eventCategory": "automobile_mob",
@@ -181,10 +181,10 @@
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/useful1.png"
             },
             "layoutKey": "usefulTopics.automobileTopics",
-            "title": "Статьи про ОСАГО"
+            "title": "Статьи про Страхование"
         },
         {
-            "actionUrl": "https://en.wikipedia.org/wiki/Insurance",
+            "actionUrl": "https://finuslugi.ru/help/e-osago",
             "analytics": {
                 "eventAction": "topic_click",
                 "eventCategory": "automobile_mob",
@@ -194,7 +194,7 @@
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/useful2.png"
             },
             "layoutKey": "usefulTopics.automobileTopics",
-            "title": "Статьи про Каско"
+            "title": "Вопросы и ответы по ОСАГО"
         }
     ]
 }
