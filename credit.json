@@ -44,7 +44,18 @@
                 "props": {
                     "context": "organizations",
                     "displayType": "cardSimple",
-                    "title": "Полезное"
+                    "title": "Полезное",
+                    "description": "Посмотреть организации своего города, отсортировать, найти по названию"
+                }
+            },
+            {
+                "component": "usefulTopics",
+                "key": "usefulTopics.usefulContent",
+                "prefetched": true,
+                "props": {
+                    "context": "usefulContent",
+                    "displayType": "cardSimple",
+                    "description": "Полезный контент от экспертов рынка"
                 }
             }
         ]
@@ -89,12 +100,12 @@
             "actionUrl": "https://agents.finuslugi.ru",
             "analytics": {
                 "eventCategory": "credit_mob",
-                "eventAction": "psb_offer_click"
+                "eventAction": "agent_click"
             },
             "layoutKey": "offers.creditOffers"
         },
         {
-            "actionUrl": "https://en.wikipedia.org/wiki/Bank",
+            "actionUrl": "https://finuslugi.ru/banki",
             "analytics": {
                 "eventAction": "topic_click",
                 "eventCategory": "credits_mob",
@@ -107,11 +118,10 @@
                 ]
             },
             "layoutKey": "usefulTopics.organizations",
-            "title": "Статьи про кредиты",
-            "description": "В марте 2020 года количество досрочных погашений кредитов..."
+            "title": "Банки"
         },
         {
-            "actionUrl": "https://en.wikipedia.org/wiki/Insurance",
+            "actionUrl": "https://finuslugi.ru/strahovanie_kompanija",
             "analytics": {
                 "eventAction": "topic_click",
                 "eventCategory": "credits_mob",
@@ -124,8 +134,23 @@
                 ]
             },
             "layoutKey": "usefulTopics.organizations",
-            "title": "Досрочное погашение: выгодно ли отдавать деньги раньше?",
-            "description": "Полезный контент от экспертов рынка"
+            "title": "Страховые"
+        },
+        {
+            "actionUrl": "https://finuslugi.ru/navigator/kredity",
+            "analytics": {
+                "eventAction": "topic_click",
+                "eventCategory": "credits_mob",
+                "eventLabel": "insurance"
+            },
+            "background": {
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/useful2.png",
+                "colors": [
+                    "#EAEBEE"
+                ]
+            },
+            "layoutKey": "usefulTopics.usefulContent",
+            "title": "Статьи про кредиты"
         }
     ]
 }
