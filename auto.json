@@ -58,7 +58,7 @@
             "background": {
                 "url": "https://pocheshire.github.io/images/uncover.png"
             },
-            "deepLink": "finuslugi://insurance/osago/vehicle_details/67c93ddc-2b6e-4807-8fd5-67c4cc6baf18",
+            "deepLink": "finuslugi://insurance/osago/vehicle_details/44b32df1-2b7c-4d82-a031-0473a16da235",
             "custom": {
                 "state": "default",
                 "vehicleBrand": "BMW",
