@@ -81,7 +81,7 @@
                 "colors": [
                     "#F3F3F8"
                 ],
-				"url": "https://pocheshire.github.io/images/auto-recommendation1.png"
+                "url": "https://pocheshire.github.io/images/auto-recommendation1.png"
             },
             "deepLink": "finuslugi://insurance/osago/purchase",
             "analytics": {
@@ -97,7 +97,7 @@
                 "colors": [
                     "#F3F3F8"
                 ],
-				"url": "https://pocheshire.github.io/images/auto-recommendation2.png"
+                "url": "https://pocheshire.github.io/images/auto-recommendation2.png"
             },
             "deepLink": "finuslugi://insurance/kasko/purchase",
             "analytics": {
@@ -113,7 +113,7 @@
                 "colors": [
                     "#F3F3F8"
                 ],
-				"url": "https://pocheshire.github.io/images/auto-recommendation3.png"
+                "url": "https://pocheshire.github.io/images/auto-recommendation3.png"
             },
             "deepLink": "finuslugi://insurance/kasko/purchase",
             "analytics": {
@@ -183,7 +183,7 @@
             "layoutKey": "usefulTopics.automobileTopics",
             "title": "Статьи про ОСАГО"
         },
-	{
+        {
             "actionUrl": "https://en.wikipedia.org/wiki/Insurance",
             "analytics": {
                 "eventAction": "topic_click",
@@ -195,6 +195,6 @@
             },
             "layoutKey": "usefulTopics.automobileTopics",
             "title": "Статьи про Каско"
-        }  
+        }
     ]
 }

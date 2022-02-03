@@ -17,12 +17,12 @@
                 },
                 "prefetched": true
             },
-			{
+            {
                 "component": "creditProductCard",
                 "key": "survey",
                 "props": {
                     "displayType": "cardSingle",
-			"title": "Опрос"
+                    "title": "Опрос"
                 },
                 "prefetched": true
             },
@@ -57,7 +57,7 @@
                 "url": "https://pocheshire.github.io/images/credit-banner.png"
             },
             "actionText": "Получить кредит",
-            "deepLink":"finuslugi://credits",
+            "deepLink": "finuslugi://credits",
             "custom": {
                 "state": "no-credit"
             },
@@ -68,11 +68,11 @@
             },
             "layoutKey": "creditProductCard"
         },
-		{
+        {
             "title": "Помогите нам стать лучше",
             "description": "Ответьте на 1 вопрос",
             "actionText": "Пройти опрос",
-            "actionUrl":"https://ru.surveymonkey.com/r/FZBHQYD",
+            "actionUrl": "https://ru.surveymonkey.com/r/FZBHQYD",
             "custom": {
                 "state": "no-credit"
             },
@@ -102,13 +102,13 @@
             },
             "background": {
                 "url": "https://pocheshire.github.io/images/wallet.png",
-		"colors": [
+                "colors": [
                     "#A9E0ED"
                 ]
             },
             "layoutKey": "usefulTopics.organizations",
             "title": "Статьи про кредиты",
-	    "description": "В марте 2020 года количество досрочных погашений кредитов..."
+            "description": "В марте 2020 года количество досрочных погашений кредитов..."
         },
         {
             "actionUrl": "https://en.wikipedia.org/wiki/Insurance",
@@ -119,13 +119,13 @@
             },
             "background": {
                 "url": "https://pocheshire.github.io/images/offer_money.png",
-		"colors": [
+                "colors": [
                     "#C4C4C4"
                 ]
             },
             "layoutKey": "usefulTopics.organizations",
             "title": "Досрочное погашение: выгодно ли отдавать деньги раньше?",
-	    "description": "Полезный контент от экспертов рынка"
+            "description": "Полезный контент от экспертов рынка"
         }
     ]
 }
