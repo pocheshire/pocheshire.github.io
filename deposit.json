@@ -36,7 +36,7 @@
                 "props": {
                     "context": "depositTopics",
                     "title": "Полезное",
-                    "displayType": "cardHorizontal",
+                    "displayType": "cardSimple",
                     "displayCount": 2
                 },
                 "prefetched": true
