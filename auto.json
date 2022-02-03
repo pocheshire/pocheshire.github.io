@@ -56,14 +56,16 @@
     "data": [
         {
             "background": {
-                "url": "https://pocheshire.github.io/images/uncover.png"
+                "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/uncover.png"
             },
             "deepLink": "finuslugi://insurance/osago/vehicle_details/44b32df1-2b7c-4d82-a031-0473a16da235",
-            "title": "Заголовок баннера",
-            "description": "Описание на баннере",
-            "actionText": "Текст кнопки",
             "custom": {
-                "state": "no-auto"
+                "state": "expectation",
+                "vehicleBrand": "BMW",
+                "vehicleModel": "5 series",
+                "vehicleLicensePlate": "А 111 АА 777",
+                "policyType": "ОСАГО",
+                "policyEndDate": "2022-06-06T15:45:13"
             },
             "analytics": {
                 "eventCategory": "automobile_mob",
