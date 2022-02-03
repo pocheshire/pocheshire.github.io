@@ -26,7 +26,7 @@
                     "context": "depositOffers",
                     "title": "Предложения",
                     "displayType": "specialOffer",
-                    "displayCount": 2
+                    "displayCount": 1
                 },
                 "prefetched": true
             },
@@ -36,6 +36,7 @@
                 "props": {
                     "context": "depositTopics",
                     "title": "Полезное",
+                    "description": "Обучение и интересные статьи",
                     "displayType": "cardSimple",
                     "displayCount": 2
                 },
@@ -45,7 +46,7 @@
     },
     "data": [
         {
-            "title": "Вклады",
+            "title": "Счета и вклады",
             "description": "До 10,2% годовых",
             "background": {
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/recommendation1.png"
@@ -78,7 +79,7 @@
                     "#FEEDBA"
                 ]
             },
-            "actionUrl": "https://pocheshire.github.io/images/offer_money.png",
+            "actionUrl": "https://finuslugi.ru/novosti_finuslug/kompensaciya-komissii",
             "analytics": {
                 "eventCategory": "deposit_mob",
                 "eventAction": "first_deposit_offer_click"
@@ -86,19 +87,30 @@
             "layoutKey": "offers.depositOffers"
         },
         {
-            "title": "Стань агентом и заработай до 3000Р",
-            "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/offer2.png",
-                "colors": [
-                    "#D7BFFF"
-                ]
-            },
-            "actionUrl": "https://pocheshire.github.io/images/offer_gift.png",
+            "actionUrl": "https://finuslugi.ru/navigator/investirovat",
             "analytics": {
-                "eventCategory": "deposit_mob",
-                "eventAction": "agent_offer_click"
+                "eventAction": "topic_click",
+                "eventCategory": "automobile_mob",
+                "eventLabel": "osago_usefuls"
             },
-            "layoutKey": "offers.depositOffers"
+            "background": {
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful2.png"
+            },
+            "layoutKey": "usefulTopics.depositTopics",
+            "title": "Статьи про инвестиции"
+        },
+        {
+            "actionUrl": "https://finuslugi.ru/navigator/investirovat",
+            "analytics": {
+                "eventAction": "topic_click",
+                "eventCategory": "automobile_mob",
+                "eventLabel": "osago_usefuls"
+            },
+            "background": {
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful2.png"
+            },
+            "layoutKey": "usefulTopics.depositTopics",
+            "title": "Статьи про инвестиции"
         },
         {
             "actionUrl": "https://school.moex.com",
