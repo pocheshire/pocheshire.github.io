@@ -73,7 +73,7 @@
         {
             "title": "Получи 1000 руб за первый вклад",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/offer2.png",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/offer1.png",
                 "colors": [
                     "#FEEDBA"
                 ]
@@ -88,7 +88,7 @@
         {
             "title": "Стань агентом и заработай до 3000Р",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/offer3.png",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/offer2.png",
                 "colors": [
                     "#D7BFFF"
                 ]
