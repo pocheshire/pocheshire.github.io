@@ -79,14 +79,14 @@
             "layoutKey": "survey"
         },
         {
-            "title": "Кредит до 500 000 со ставкой 8,9%",
+            "title": "Стань агентом и зарабатывай с Финуслугами",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/offer1.png",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/offer1.png?v2",
                 "colors": [
-                    "#E1E8F6"
+                    "#D7BFFF"
                 ]
             },
-            "actionUrl": "https://pocheshire.github.io/images/offer_money.png",
+            "actionUrl": "https://agents.finuslugi.ru",
             "analytics": {
                 "eventCategory": "credit_mob",
                 "eventAction": "psb_offer_click"
