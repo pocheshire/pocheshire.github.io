@@ -74,7 +74,7 @@
         {
             "title": "Получи 1000 руб за первый вклад",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/offer1.png",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/offer1.png?v2",
                 "colors": [
                     "#FEEDBA"
                 ]
