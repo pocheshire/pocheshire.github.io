@@ -94,10 +94,10 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful2.png"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful1.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
-            "title": "Статьи про инвестиции"
+            "title": "Статьи про накопления"
         },
         {
             "actionUrl": "https://finuslugi.ru/navigator/investirovat",
