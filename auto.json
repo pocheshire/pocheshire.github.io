@@ -60,7 +60,7 @@
             },
             "deepLink": "finuslugi://insurance/osago/vehicle_details/44b32df1-2b7c-4d82-a031-0473a16da235",
             "custom": {
-                "state": "expectation",
+                "state": "default",
                 "vehicleBrand": "BMW",
                 "vehicleModel": "5 series",
                 "vehicleLicensePlate": "А 111 АА 777",
@@ -68,9 +68,9 @@
                 "policyEndDate": "2022-06-06T15:45:13"
             },
             "analytics": {
-                "eventCategory": "automobile_mob",
-                "eventAction": "banner_click",
-                "eventLabel": "uncover"
+                "eventCategory": "automobile_mob1",
+                "eventAction": "banner_click2",
+                "eventLabel": "uncover3"
             },
             "layoutKey": "automobileProductCard"
         },
@@ -85,8 +85,8 @@
             },
             "deepLink": "finuslugi://insurance/osago/purchase",
             "analytics": {
-                "eventCategory": "automobile_mob",
-                "eventAction": "osago_recommendation_click"
+                "eventCategory": "automobile_mob4",
+                "eventAction": "osago_recommendation_click5"
             },
             "layoutKey": "recommendations.automobileRecommendations"
         },
@@ -101,8 +101,8 @@
             },
             "deepLink": "finuslugi://insurance/kasko/purchase",
             "analytics": {
-                "eventCategory": "automobile_mob",
-                "eventAction": "kasko_recommendation_click"
+                "eventCategory": "automobile_mob6",
+                "eventAction": "kasko_recommendation_click7"
             },
             "layoutKey": "recommendations.automobileRecommendations"
         },
@@ -117,8 +117,8 @@
             },
             "deepLink": "finuslugi://insurance/kasko/purchase",
             "analytics": {
-                "eventCategory": "automobile_mob",
-                "eventAction": "kasko_recommendation_click"
+                "eventCategory": "automobile_mob8",
+                "eventAction": "kasko_recommendation_click9"
             },
             "layoutKey": "recommendations.automobileRecommendations"
         },
@@ -132,9 +132,9 @@
             },
             "actionUrl": "https://pocheshire.github.io/images/offer_money.png",
             "analytics": {
-                "eventCategory": "automobile_mob",
-                "eventAction": "gas_station_sale_offer_click",
-                "eventLabel": "some_label"
+                "eventCategory": "automobile_mob10",
+                "eventAction": "gas_station_sale_offer_click11",
+                "eventLabel": "some_label12"
             },
             "layoutKey": "offers.automobileOffers"
         },
@@ -148,9 +148,9 @@
             },
             "actionUrl": "https://pocheshire.github.io/images/offer_tires.png",
             "analytics": {
-                "eventCategory": "automobile_mob",
-                "eventAction": "tires_change_offer_click",
-                "eventLabel": "some_label"
+                "eventCategory": "automobile_mob13",
+                "eventAction": "tires_change_offer_click14",
+                "eventLabel": "some_label15"
             },
             "layoutKey": "offers.automobileOffers"
         },
@@ -164,18 +164,18 @@
             },
             "actionUrl": "https://pocheshire.github.io/images/offer_tires.png",
             "analytics": {
-                "eventCategory": "automobile_mob",
-                "eventAction": "tires_change_offer_click",
-                "eventLabel": "some_label"
+                "eventCategory": "automobile_mob16",
+                "eventAction": "tires_change_offer_click17",
+                "eventLabel": "some_label18"
             },
             "layoutKey": "offers.automobileOffers"
         },
         {
             "actionUrl": "https://en.wikipedia.org/wiki/Insurance",
             "analytics": {
-                "eventAction": "topic_click",
-                "eventCategory": "automobile_mob",
-                "eventLabel": "osago_usefuls"
+                "eventAction": "topic_click19",
+                "eventCategory": "automobile_mob20",
+                "eventLabel": "osago_usefuls21"
             },
             "background": {
                 "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/useful1.png"
@@ -186,9 +186,9 @@
         {
             "actionUrl": "https://en.wikipedia.org/wiki/Insurance",
             "analytics": {
-                "eventAction": "topic_click",
-                "eventCategory": "automobile_mob",
-                "eventLabel": "kasko_usefuls"
+                "eventAction": "topic_click22",
+                "eventCategory": "automobile_mob23",
+                "eventLabel": "kasko_usefuls24"
             },
             "background": {
                 "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/useful2.png"
