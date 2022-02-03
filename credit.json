@@ -54,7 +54,7 @@
             "title": "Кредит на любые цели",
             "description": "Не выходя из дома",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/credit-banner.png"
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/banner.png"
             },
             "actionText": "Получить кредит",
             "deepLink": "finuslugi://credits",
@@ -81,7 +81,7 @@
         {
             "title": "Кредит до 500 000 со ставкой 8,9%",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/credit-offer1.png",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/credit/offer1.png",
                 "colors": [
                     "#E1E8F6"
                 ]
@@ -101,7 +101,7 @@
                 "eventLabel": "banks"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/wallet.png",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit//wallet.png",
                 "colors": [
                     "#A9E0ED"
                 ]
@@ -118,7 +118,7 @@
                 "eventLabel": "insurance"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/offer_money.png",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/offer_money.png",
                 "colors": [
                     "#C4C4C4"
                 ]
