@@ -46,7 +46,7 @@
     },
     "data": [
         {
-            "title": "Счета и вклады",
+            "title": "Вклады",
             "description": "До 10,2% годовых",
             "background": {
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/recommendation1.png"
