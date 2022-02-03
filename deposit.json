@@ -87,7 +87,7 @@
             "layoutKey": "offers.depositOffers"
         },
         {
-            "actionUrl": "https://finuslugi.ru/navigator/investirovat",
+            "actionUrl": "https://finuslugi.ru/navigator/nakopit-i-sohranit",
             "analytics": {
                 "eventAction": "topic_click",
                 "eventCategory": "automobile_mob",
