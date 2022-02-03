@@ -84,7 +84,7 @@
             "background": {
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/offer1.png",
                 "colors": [
-                    "#D7BFFF"
+                    "#E9CA6D"
                 ]
             },
             "actionUrl": "https://agents.finuslugi.ru",
