@@ -56,7 +56,7 @@
     "data": [
         {
             "background": {
-                "url": "https://pocheshire.github.io/images/uncover.png"
+                "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/uncover.png"
             },
             "deepLink": "finuslugi://insurance/osago/vehicle_details/44b32df1-2b7c-4d82-a031-0473a16da235",
             "custom": {
@@ -81,7 +81,7 @@
                 "colors": [
                     "#F3F3F8"
                 ],
-                "url": "https://pocheshire.github.io/images/auto-recommendation1.png"
+                "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/recommendation1.png"
             },
             "deepLink": "finuslugi://insurance/osago/purchase",
             "analytics": {
@@ -97,7 +97,7 @@
                 "colors": [
                     "#F3F3F8"
                 ],
-                "url": "https://pocheshire.github.io/images/auto-recommendation2.png"
+                "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/recommendation2.png"
             },
             "deepLink": "finuslugi://insurance/kasko/purchase",
             "analytics": {
@@ -113,7 +113,7 @@
                 "colors": [
                     "#F3F3F8"
                 ],
-                "url": "https://pocheshire.github.io/images/auto-recommendation3.png"
+                "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/recommendation3.png"
             },
             "deepLink": "finuslugi://insurance/kasko/purchase",
             "analytics": {
@@ -125,7 +125,7 @@
         {
             "title": "MOEX Group – узнайте подробности о новом бренде ",
             "background": {
-                "url": "https://pocheshire.github.io/images/auto-offer1.png",
+                "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/offer1.png",
                 "colors": [
                     "#FF0508"
                 ]
@@ -141,7 +141,7 @@
         {
             "title": "Поменяйте колеса со скидкой",
             "background": {
-                "url": "https://pocheshire.github.io/images/auto-offer2.png",
+                "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/offer2.png",
                 "colors": [
                     "#FEEDBA"
                 ]
@@ -157,7 +157,7 @@
         {
             "title": "Новое на Финуслугах: ипотечное страхование",
             "background": {
-                "url": "https://pocheshire.github.io/images/auto-offer3.png",
+                "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/offer3.png",
                 "colors": [
                     "#D7BFFF"
                 ]
@@ -178,7 +178,7 @@
                 "eventLabel": "osago_usefuls"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/auto-useful1.png"
+                "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/useful1.png"
             },
             "layoutKey": "usefulTopics.automobileTopics",
             "title": "Статьи про ОСАГО"
@@ -191,7 +191,7 @@
                 "eventLabel": "kasko_usefuls"
             },
             "background": {
-                "url": "https://pocheshire.github.io/images/auto-useful2.png"
+                "url": "http://dev-minio.beta.moex.com/mp-assets/images/auto/useful2.png"
             },
             "layoutKey": "usefulTopics.automobileTopics",
             "title": "Статьи про Каско"
