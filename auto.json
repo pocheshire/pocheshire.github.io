@@ -35,7 +35,7 @@
                     "context": "automobileOffers",
                     "title": "Предложения",
                     "displayType": "specialOffer",
-                    "displayCount": 3
+                    "displayCount": 1
                 },
                 "prefetched": true
             },
@@ -134,38 +134,6 @@
             "analytics": {
                 "eventCategory": "automobile_mob",
                 "eventAction": "gas_station_sale_offer_click",
-                "eventLabel": "some_label"
-            },
-            "layoutKey": "offers.automobileOffers"
-        },
-        {
-            "title": "Поменяйте колеса со скидкой",
-            "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/offer2.png",
-                "colors": [
-                    "#FEEDBA"
-                ]
-            },
-            "actionUrl": "https://pocheshire.github.io/images/offer_tires.png",
-            "analytics": {
-                "eventCategory": "automobile_mob",
-                "eventAction": "tires_change_offer_click",
-                "eventLabel": "some_label"
-            },
-            "layoutKey": "offers.automobileOffers"
-        },
-        {
-            "title": "Новое на Финуслугах: ипотечное страхование",
-            "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/offer3.png",
-                "colors": [
-                    "#D7BFFF"
-                ]
-            },
-            "actionUrl": "https://pocheshire.github.io/images/offer_tires.png",
-            "analytics": {
-                "eventCategory": "automobile_mob",
-                "eventAction": "tires_change_offer_click",
                 "eventLabel": "some_label"
             },
             "layoutKey": "offers.automobileOffers"
