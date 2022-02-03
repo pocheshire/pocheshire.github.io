@@ -43,7 +43,7 @@
                 "prefetched": true,
                 "props": {
                     "context": "organizations",
-                    "displayType": "newsList",
+                    "displayType": "cardSimple",
                     "title": "Полезное"
                 }
             }
@@ -81,7 +81,7 @@
         {
             "title": "Кредит до 500 000 со ставкой 8,9%",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/auto/credit/offer1.png",
+                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/offer1.png",
                 "colors": [
                     "#E1E8F6"
                 ]
@@ -103,7 +103,7 @@
             "background": {
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/useful1.png",
                 "colors": [
-                    "#A9E0ED"
+                    "#EAEBEE"
                 ]
             },
             "layoutKey": "usefulTopics.organizations",
@@ -120,7 +120,7 @@
             "background": {
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/useful2.png",
                 "colors": [
-                    "#C4C4C4"
+                    "#EAEBEE"
                 ]
             },
             "layoutKey": "usefulTopics.organizations",
