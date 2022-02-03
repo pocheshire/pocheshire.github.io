@@ -60,10 +60,10 @@
             },
             "deepLink": "finuslugi://insurance/osago/vehicle_details/44b32df1-2b7c-4d82-a031-0473a16da235",
             "custom": {
-                "state": "expectation",
-                "vehicleBrand": "BMW-1",
-                "vehicleModel": "5 series-1",
-                "vehicleLicensePlate": "А 111 АА 777-1",
+                "state": "default",
+                "vehicleBrand": "BMW",
+                "vehicleModel": "5 series",
+                "vehicleLicensePlate": "А 111 АА 777",
                 "policyType": "ОСАГО",
                 "policyEndDate": "2022-06-06T15:45:13"
             },
@@ -81,7 +81,7 @@
                 "colors": [
                     "#F3F3F8"
                 ],
-				"url": "https://pocheshire.github.io/images/auto-recommendation1.png "
+				"url": "https://pocheshire.github.io/images/auto-recommendation1.png"
             },
             "deepLink": "finuslugi://insurance/osago/purchase",
             "analytics": {
