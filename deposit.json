@@ -54,7 +54,7 @@
             "deepLink": "finuslugi://deposits",
             "analytics": {
                 "eventCategory": "deposit_mob",
-                "eventAction": "deposits_recommendation_click"
+                "eventAction": "deposit_recommendation_click"
             },
             "layoutKey": "recommendations.depositRecommendations"
         },
@@ -67,7 +67,7 @@
             "deepLink": "finuslugi://investments",
             "analytics": {
                 "eventCategory": "deposit_mob",
-                "eventAction": "investments_recommendation_click"
+                "eventAction": "bonds_recommendation_click"
             },
             "layoutKey": "recommendations.depositRecommendations"
         },
@@ -89,9 +89,9 @@
         {
             "actionUrl": "https://finuslugi.ru/navigator/nakopit-i-sohranit",
             "analytics": {
-                "eventAction": "topic_click",
                 "eventCategory": "automobile_mob",
-                "eventLabel": "osago_usefuls"
+                "eventAction": "topic_click",
+                "eventLabel": "savings"
             },
             "background": {
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful1.png"
@@ -102,9 +102,9 @@
         {
             "actionUrl": "https://finuslugi.ru/navigator/investirovat",
             "analytics": {
-                "eventAction": "topic_click",
                 "eventCategory": "automobile_mob",
-                "eventLabel": "osago_usefuls"
+                "eventAction": "topic_click",
+                "eventLabel": "investments"
             },
             "background": {
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful2.png"
@@ -115,9 +115,9 @@
         {
             "actionUrl": "https://school.moex.com",
             "analytics": {
-                "eventAction": "topic_click",
                 "eventCategory": "automobile_mob",
-                "eventLabel": "osago_usefuls"
+				"eventAction": "topic_click",
+				"eventLabel": "moex_school"
             },
             "background": {
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful3.png"
@@ -129,9 +129,9 @@
         {
             "actionUrl": "https://school.moex.com/put-investora/?utm_source=google&utm_medium=cpc&utm_campaign=moex-perf_ga_shkola_nov-21_conv_search_n_msk&utm_content=re-%7Bretargeting_id%7D%7Cgr-%7Bgbid%7D%7Cad-%7Bad_id%7D%7Cst-%7Bsource_type%7D%7Cs-%7Bsource%7D%7Cp-%7Bposition%7D%7Cpt-%7Bposition_type%7D%7Cdt-%7Bdevice_type%7D%7Caud-%7Bcoef_goal_context_id%7D&utm_term=kw-%7Bkeyword%7D%7Cph-%7Bphrase_id%7D&gclid=Cj0KCQiAraSPBhDuARIsAM3Js4rvEKo-tXJjmj-mFIeFQOGS_-7EuEXEyG1xPu81vRWxCdO293BOg50aAi8sEALw_wcB",
             "analytics": {
-                "eventAction": "topic_click",
                 "eventCategory": "automobile_mob",
-                "eventLabel": "osago_usefuls"
+				"eventAction": "topic_click",
+				"eventLabel": "investor_way"
             },
             "background": {
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful4.png"
