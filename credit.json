@@ -77,6 +77,11 @@
             "custom": {
                 "state": "no-credit"
             },
+            "analytics": {
+			    "eventCategory": "credit_mob",
+                "eventAction": "poll_click",
+                "eventLabel": "help_us_be_better"
+            },
             "layoutKey": "survey"
         },
         {
@@ -90,15 +95,16 @@
             "actionUrl": "https://agents.finuslugi.ru",
             "analytics": {
                 "eventCategory": "credit_mob",
-                "eventAction": "agent_click"
+                "eventAction": "offer_click",
+                "eventLabel": "be_agent_and_earn"
             },
             "layoutKey": "offers.creditOffers"
         },
         {
             "actionUrl": "https://finuslugi.ru/banki",
             "analytics": {
+                "eventCategory": "credit_mob",
                 "eventAction": "topic_click",
-                "eventCategory": "credits_mob",
                 "eventLabel": "banks"
             },
             "background": {
@@ -113,8 +119,8 @@
         {
             "actionUrl": "https://finuslugi.ru/strahovanie_kompanija",
             "analytics": {
+                "eventCategory": "credit_mob",
                 "eventAction": "topic_click",
-                "eventCategory": "credits_mob",
                 "eventLabel": "insurance"
             },
             "background": {
@@ -129,9 +135,9 @@
         {
             "actionUrl": "https://finuslugi.ru/navigator/kredity",
             "analytics": {
+                "eventCategory": "credit_mob",
                 "eventAction": "topic_click",
-                "eventCategory": "credits_mob",
-                "eventLabel": "insurance"
+                "eventLabel": "credits"
             },
             "background": {
                 "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/useful3.png",
