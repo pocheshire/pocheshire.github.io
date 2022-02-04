@@ -49,7 +49,7 @@
             "title": "Вклады",
             "description": "До 10,2% годовых",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/recommendation1.png"
+                "url": "https://assets.finuslugi.ru/mp-assets/images/deposit/recommendation1.png"
             },
             "deepLink": "finuslugi://deposits",
             "analytics": {
@@ -62,7 +62,7 @@
             "title": "Облигации",
             "description": "Калининградской области, купон 9%",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/recommendation2.png"
+                "url": "https://assets.finuslugi.ru/mp-assets/images/deposit/recommendation2.png"
             },
             "deepLink": "finuslugi://investments",
             "analytics": {
@@ -74,7 +74,7 @@
         {
             "title": "Получи 1000 руб за первый вклад",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/offer1.png",
+                "url": "https://assets.finuslugi.ru/mp-assets/images/deposit/offer1.png",
                 "colors": [
                     "#E9CA6D"
                 ]
@@ -94,7 +94,7 @@
                 "eventLabel": "savings"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful1.png"
+                "url": "https://assets.finuslugi.ru/mp-assets/images/deposit/useful1.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Статьи про накопления"
@@ -107,7 +107,7 @@
                 "eventLabel": "investments"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful2.png"
+                "url": "https://assets.finuslugi.ru/mp-assets/images/deposit/useful2.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Статьи про инвестиции"
@@ -120,7 +120,7 @@
 				"eventLabel": "moex_school"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful3.png"
+                "url": "https://assets.finuslugi.ru/mp-assets/images/deposit/useful3.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Школа Московской биржи",
@@ -134,7 +134,7 @@
 				"eventLabel": "investor_way"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/deposit/useful4.png"
+                "url": "https://assets.finuslugi.ru/mp-assets/images/deposit/useful4.png"
             },
             "layoutKey": "usefulTopics.depositTopics",
             "title": "Путь инвестора",
