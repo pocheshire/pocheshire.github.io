@@ -55,7 +55,7 @@
             "title": "Кредит на любые цели",
             "description": "Не выходя из дома",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/banner1.png"
+                "url": "https://assets.finuslugi.ru/mp-assets/images/credit/banner1.png"
             },
             "actionText": "Получить кредит",
             "deepLink": "finuslugi://credits",
@@ -87,7 +87,7 @@
         {
             "title": "Стань агентом и зарабатывай с Финуслугами",
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/offer1.png",
+                "url": "https://assets.finuslugi.ru/mp-assets/images/credit/offer1.png",
                 "colors": [
                     "#BA98F3"
                 ]
@@ -108,7 +108,7 @@
                 "eventLabel": "banks"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/useful1.png",
+                "url": "https://assets.finuslugi.ru/mp-assets/images/credit/useful1.png",
                 "colors": [
                     "#EAEBEE"
                 ]
@@ -124,7 +124,7 @@
                 "eventLabel": "insurance"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/useful2.png",
+                "url": "https://assets.finuslugi.ru/mp-assets/images/credit/useful2.png",
                 "colors": [
                     "#EAEBEE"
                 ]
@@ -140,7 +140,7 @@
                 "eventLabel": "credits"
             },
             "background": {
-                "url": "https://dev-minio.beta.moex.com/mp-assets/images/credit/useful3.png",
+                "url": "https://assets.finuslugi.ru/mp-assets/images/credit/useful3.png",
                 "colors": [
                     "#EAEBEE"
                 ]
