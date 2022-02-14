@@ -123,9 +123,9 @@
             "layoutKey": "recommendations.automobileRecommendations"
         },
         {
-            "title": "MOEX Group – узнайте подробности о новом бренде ",
+            "title": "MOEX Group – узнайте подробности о новом бренде",
             "background": {
-                "url": "https://assets.finuslugi.ru/mp-assets/images/auto/offer1.png",
+                "url": "https://pocheshire.github.io/images/offer_1.png",
                 "colors": [
                     "#FF0508"
                 ]
@@ -138,6 +138,44 @@
             },
             "custom": {
                 "textColor":"#FFFFFF"
+            },
+            "layoutKey": "offers.automobileOffers"
+        },
+        {
+            "title": "Поменяйте колеса со скидкой",
+            "background": {
+                "url": "https://pocheshire.github.io/images/offer_2.png",
+                "colors": [
+                    "#FEEDBA"
+                ]
+            },
+            "actionUrl": "https://finuslugi.ru/novosti_finuslug/moskovskaya_birzha_predstavila_obnovlennoe_pozicionirovanie_i_brend",
+            "analytics": {
+                "eventCategory": "automobile_mob",
+                "eventAction": "offer_click",
+                "eventLabel": "tires_brand"	
+            },
+            "custom": {
+                "textColor":"#1F242E"
+            },
+            "layoutKey": "offers.automobileOffers"
+        },
+        {
+            "title": "Новое на Финуслугах: ипотечное страхование",
+            "background": {
+                "url": "https://pocheshire.github.io/images/offer_3.png",
+                "colors": [
+                    "#D7BFFF"
+                ]
+            },
+            "actionUrl": "https://finuslugi.ru/novosti_finuslug/moskovskaya_birzha_predstavila_obnovlennoe_pozicionirovanie_i_brend",
+            "analytics": {
+                "eventCategory": "automobile_mob",
+                "eventAction": "offer_click",
+                "eventLabel": "about_new_brand"	
+            },
+            "custom": {
+                "textColor":"#1F242E"
             },
             "layoutKey": "offers.automobileOffers"
         },
