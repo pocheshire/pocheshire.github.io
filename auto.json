@@ -34,8 +34,8 @@
                 "props": {
                     "context": "automobileOffers",
                     "title": "Предложения",
-                    "displayType": "specialOffer",
-                    "displayCount": 1
+                    "displayType": "reliefIconsOffers",
+                    "displayCount": 3
                 },
                 "prefetched": true
             },
@@ -123,7 +123,7 @@
             "layoutKey": "recommendations.automobileRecommendations"
         },
         {
-            "title": "Подробности о новом бренде MOEX Group",
+            "title": "MOEX Group – узнайте подробности о новом бренде ",
             "background": {
                 "url": "https://assets.finuslugi.ru/mp-assets/images/auto/offer1.png",
                 "colors": [
@@ -135,6 +135,9 @@
                 "eventCategory": "automobile_mob",
                 "eventAction": "offer_click",
                 "eventLabel": "about_new_brand"	
+            },
+            "custom": {
+                "textColor":"#FFFFFF"
             },
             "layoutKey": "offers.automobileOffers"
         },
